@@ -23,7 +23,7 @@ Plot totals (works only for calls for now?)
 
 ## ToDo
 
-1. Fix puts total calculation?
+1. Fix puts totals? Yes, tested and working now.
 2. Add ability to add multiple units of contracts to see change in graph
-
+3. Awesome feature: Add normal distribution of underlying asset as overlay to see prob of profit and price movement. With IV and time?
 
